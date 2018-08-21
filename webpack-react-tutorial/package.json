@@ -1,0 +1,16 @@
+{
+  "name": "webpack-react-tutorial",
+  "version": "0.0.1",
+  "description": "just doing tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/tsuyukimakoto/react_webpack4_babel_2018",
+  "author": "makoto tsuyuki",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.17.0",
+    "webpack-cli": "^3.1.0"
+  },
+  "scripts": {
+    "build": "webpack --mode production"
+  }
+}
